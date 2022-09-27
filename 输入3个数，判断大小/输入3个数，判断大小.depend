@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664029053 source:e:\codeblock\练习\输入3个数，判断大小\main.c
+	<stdio.h>
+	<stdlib.h>
+
