@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664103996 source:e:\codeblock\练习\比较两个数的最大公约数\main.c
+	<stdio.h>
+	<stdlib.h>
+
