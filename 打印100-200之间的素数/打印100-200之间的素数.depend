@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664111480 source:e:\codeblock\练习\打印100-200之间的素数\main.c
+	<stdio.h>
+	<stdlib.h>
+
