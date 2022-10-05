@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664447005 source:e:\codeblock\学习课\写函数来输出100-200之间的素数\main.c
+	<stdio.h>
+	<stdlib.h>
+
