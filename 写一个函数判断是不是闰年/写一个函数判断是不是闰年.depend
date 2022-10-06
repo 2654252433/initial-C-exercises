@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664447588 source:e:\codeblock\练习\写一个函数判断是不是闰年\main.c
+	<stdio.h>
+	<stdlib.h>
+
