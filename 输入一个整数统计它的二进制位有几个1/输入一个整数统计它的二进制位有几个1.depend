@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665050567 source:e:\codeblock\练习\输入一个整数统计它的二进制位有几个1\main.c
+	<stdio.h>
+	<stdlib.h>
+
