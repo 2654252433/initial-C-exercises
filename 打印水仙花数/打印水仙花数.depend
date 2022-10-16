@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665756031 source:e:\codeblock\练习\打印水仙花数\main.c
+	<stdio.h>
+	<stdlib.h>
+
