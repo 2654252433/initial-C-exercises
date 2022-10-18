@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665829673 source:e:\codeblock\练习\统计两个二进制位数中有几个数不同\main.c
+	<stdio.h>
+	<stdlib.h>
+
