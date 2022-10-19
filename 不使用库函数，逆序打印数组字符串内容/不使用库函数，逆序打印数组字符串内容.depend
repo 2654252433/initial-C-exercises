@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665844698 source:e:\codeblock\练习\不使用库函数，逆序打印数组字符串内容\main.c
+	<stdio.h>
+	<stdlib.h>
+
