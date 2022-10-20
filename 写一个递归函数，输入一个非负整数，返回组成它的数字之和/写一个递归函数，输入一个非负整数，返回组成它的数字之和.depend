@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665913960 source:e:\codeblock\练习\写一个递归函数，输入一个非负整数，返回组成它的数字之和\main.c
+	<stdio.h>
+	<stdlib.h>
+
